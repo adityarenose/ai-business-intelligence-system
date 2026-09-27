@@ -1,0 +1,22 @@
+# Core Python stack
+pandas
+numpy
+sqlalchemy
+mysql-connector-python
+PyMySQL
+
+# Backend
+Flask
+
+# Machine learning
+scikit-learn
+
+# Utilities
+python-dotenv
+
+# Testing
+pytest
+
+# Optional LLM integration (to be added later)
+# openai
+# langchain
